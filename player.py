@@ -24,6 +24,7 @@ class Player(pygame.sprite.Sprite):
         self.change_y = 0
 
         self.jump_sound = mixer.Sound('assets/Jump.wav')
+        pygame.mixer.Sound.set_volume(background_music, 0.25)
 
     # ------ gravity function ------
     def grav(self):
