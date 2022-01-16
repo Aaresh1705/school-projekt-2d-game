@@ -3,7 +3,7 @@ This is a 2 player 2D side scroller platform game made in python.
 By Jacob, Hector and Marcus
 With Sofus 2.y, Lauge 2.y and Joachim 2.y as playtesters
 
-Get the code on githup: https://
+Get the code on githup: https://github.com/Aaresh1705/school-projekt-2d-game
 
 ------ CONTROLLS ------
 W, A & D    - player one
